@@ -1263,6 +1263,6 @@ ul.portfolio-image li .desc{
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
 .column {
-     width:200px;
+     width:500px;
      float:left
 }
